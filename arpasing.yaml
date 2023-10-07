@@ -42,6 +42,7 @@ symbols:
   - {symbol: z, type: fricative}
   - {symbol: zh, type: fricative}
   - {symbol: dx, type: tap}
+  - {symbol: nx, type: tap}
   - {symbol: el, type: nasal}
   - {symbol: en, type: nasal}
   - {symbol: em, type: nasal}
